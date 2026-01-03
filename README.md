@@ -1,4 +1,4 @@
-# Readable README Generator (Gemini)
+# Readable README Generator (Gemini2.0)
 
 A web-based tool to generate professional and comprehensive README.md files for your GitHub projects. This tool simplifies the process of creating well-structured READMEs, saving you time and ensuring your projects are well-documented.
 
